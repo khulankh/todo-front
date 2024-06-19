@@ -1,0 +1,7 @@
+query GetListQuery {
+  getListQuery {
+    _id
+    title
+    statusType
+  }
+}
